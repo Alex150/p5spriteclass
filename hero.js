@@ -1,3 +1,5 @@
-class Hero extends Sprite{
+class Platform extends Sprite{
+  show(){
   
+  }
 }
